@@ -50,7 +50,7 @@ Questo progetto è stato possibile grazie a un intenso lavoro di squadra, basato
 
 ## 📸 Media
 
-📌![Servo-Cat in azione](media/servo_cat.jpg)
+📌![Servo-Cat in azione](servo_cat.jpg)
 
 
 ---
