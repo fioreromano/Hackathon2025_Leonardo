@@ -30,8 +30,24 @@ The robot, dubbed **Servo-Cat**, had to traverse a **static maze** while avoidin
 
 ---
 
-## 🏗️ Challenge 2 - Object manipulation
+## 🏗️ Challenge 2 - Object Handling
 
-The sec
+The second challenge involved the design of a **vertical lifting system**, inspired by the logic of a forklift. We implemented a structure equipped with a **toothed wheel and rack mechanism**, controlled by a servomotor and driven via microcontroller.
 
-Translated with DeepL.com (free version)
+### 🔑 Technical objectives:
+- Mechanical design of the lifting system
+- Precise control via **motor and position sensors**
+- Management of object stability during lifting
+- Embedded control of vertical motion
+
+---
+
+## 🤝 Team & Collaboration
+
+This project was made possible by intensive teamwork, based on **complicity, collaborative spirit** and continuous problem solving. Each member actively contributed to the design, software development, and hardware implementation.
+
+---
+
+## 📸 Media
+
+📌![Servo-Cat in action](servo_cat.jpg)
