@@ -1,58 +1,37 @@
-# 🏆 Hackathon Leonardo x Talent Garden – Aprile 2025  
-**1° Posto | Progetto Servo-Cat**
+# 🏆 Leonardo x Talent Garden Hackathon - April 2025 
+**1st Place | Project Servo-Cat**
 
-Benvenuti nella repository ufficiale del progetto sviluppato in occasione dell’hackathon organizzato da **Leonardo** in collaborazione con **Talent Garden**, tenutosi il 5-6 Aprile 2025.
+Welcome to the repository of the project developed at the hackathon organized by **Leonardo** in collaboration with **Talent Garden**, held on April 5-6, 2025.
 
-In questa repository troverete il codice sorgente relativo alle due sfide affrontate durante la competizione, entrambe basate sulla progettazione e il controllo di un robot autonomo tramite microcontrollore.
-
----
-
-## ⚙️ Obiettivo generale
-
-Progettare, assemblare e programmare un robot dotato di **sensori** e **attuatori**, capace di affrontare autonomamente due prove distinte:
-
-1. **Navigazione autonoma in un labirinto a ostacoli**
-2. **Manipolazione e sollevamento verticale di oggetti**
-
-Il tutto in un contesto a tempo limitato, con risorse tecniche vincolate e sotto stress competitivo.
+In this repository you will find the source code related to the two challenges faced during the competition, both based on the design and control of an autonomous robot using a microcontroller.
 
 ---
 
-## 🧭 Sfida 1 – Navigazione autonoma
+## ⚙️ Overall goal
 
-Il robot, soprannominato **Servo-Cat**, doveva attraversare un **labirinto statico** evitando ostacoli. La particolarità della prova era che la **posizione degli ostacoli non era nota fino al momento della gara**, richiedendo una strategia di navigazione dinamica e adattiva.
+Design, assemble, and program a robot equipped with **sensors** and **actuators**, capable of autonomously tackling two separate tests:
 
-### 🔑 Obiettivi tecnici:
-- Lettura in tempo reale da **sensori di distanza** 
-- Algoritmo di **avoidance e navigazione** per percorsi ignoti
-- Gestione della **movimentazione autonoma** tramite motori DC
-- Modularità e reattività del software embedded
+1. **Autonomous navigation in an obstacle maze**
+2. **Manipulation and vertical lifting of objects**
 
----
-
-## 🏗️ Sfida 2 – Manipolazione oggetti
-
-La seconda sfida prevedeva la progettazione di un **sistema di sollevamento verticale**, ispirato alla logica di un muletto. Abbiamo implementato una struttura dotata di un **meccanismo a ruota dentata e cremagliera**, controllato da un servomotore e pilotato via microcontrollore.
-
-### 🔑 Obiettivi tecnici:
-- Progettazione meccanica del sistema di sollevamento
-- Controllo preciso tramite **motore e sensori di posizione**
-- Gestione della stabilità dell’oggetto durante il sollevamento
-- Controllo embedded del movimento verticale
+All in a time-constrained context, with constrained technical resources and under competitive stress.
 
 ---
 
-## 🤝 Team & Collaborazione
+## 🧭 Challenge 1 - Autonomous Navigation
 
-Questo progetto è stato possibile grazie a un intenso lavoro di squadra, basato su **complicità, spirito collaborativo** e problem solving continuo. Ogni membro ha contribuito attivamente alla progettazione, allo sviluppo software e alla realizzazione hardware.
+The robot, dubbed **Servo-Cat**, had to traverse a **static maze** while avoiding obstacles. The special feature of the test was that the **position of the obstacles was not known until the time of the race**, requiring a dynamic and adaptive navigation strategy.
+
+### 🔑 Technical objectives:
+- Real-time readout from **distance sensors** 
+- **avoidance and navigation** algorithm for unknown paths
+- Management of **autonomous **movement** by DC motors
+- Modularity and responsiveness of embedded software
 
 ---
 
-## 📸 Media
+## 🏗️ Challenge 2 - Object manipulation
 
-📌![Servo-Cat in azione](servo_cat.jpg)
+The sec
 
-
----
-
-
+Translated with DeepL.com (free version)
